@@ -172,9 +172,9 @@ The notebook configures Spark with explicit memory, partition, adaptive executio
 ## 📁 Files
 
 - `A2A_mngo0011.ipynb` — Jupyter notebook containing the full PySpark modelling workflow
-- `Screenshot 2026-07-17 at 11.31.04 pm.png` — imputation summary and sample rows
-- `Screenshot 2026-07-17 at 11.31.42 pm.png` — severity rating by speed limit and traffic period
-- `Screenshot 2026-07-17 at 11.32.21 pm.png` — regression model comparison
+- Imputation summary and sample rows
+- Severity rating by speed limit and traffic period
+- Regression model comparison
 - `README.md` — project summary and usage instructions
 
 ---
